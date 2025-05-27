@@ -67,6 +67,7 @@ button:hover{
     font-size: 16px;
     font-weight: 500;
     margin-left: 34px;
+    color: #fff;
 
 }
 
@@ -105,23 +106,16 @@ button:hover{
     text-align: right;
     width: 50%;
 }
-/* .Second-half p {
-    position: absolute;
-        text-align: right;
-        display: flex;
-        margin-left: 185px;
+
+.Second-half h1 {
+        margin-right: 30px;
+        font-size:45px;
 }
- */
-/* .Second-half h1{
-    position: relative;
-    display: flex;
-     text-align: right;
-     justify-content: right;
-    font-size: 44px;
-    z-index: 10;
-     margin-left: 164px;
-    
-} */
+
+.Second-half p{
+     margin-right: 30px;
+}
+
 
 .bg-animation{
       position: absolute;
